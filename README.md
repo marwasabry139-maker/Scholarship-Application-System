@@ -3,7 +3,7 @@
 ---
 
 ## 📅 Group Information
-* **Section Day:*يوم الاحد
+* Section Day:يوم الاحد
 * Supervised By: Eng. Eman A Raoof
 
 ---
